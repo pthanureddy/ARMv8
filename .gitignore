@@ -1,0 +1,6 @@
+/build/
+/.idea/
+/.vscode/
+*.trace
+*.log
+.DS_Store
